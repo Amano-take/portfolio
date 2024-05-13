@@ -3,7 +3,7 @@
 
 # 競プロ
 atcoder: [sfmo](https://atcoder.jp/users/sfmo)  
-2023/08 くらいからPythonで活動開始  
+2023/08 くらいからPythonで活動開始  (2024/5/13現在　レート1538)
 
 # ML
 画像認識: [numpy, mnist](https://github.com/Amano-take/image-expe/)  
