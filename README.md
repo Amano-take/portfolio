@@ -9,11 +9,9 @@ atcoder: [sfmo](https://atcoder.jp/users/sfmo)
 画像認識: [numpy, mnist](https://github.com/Amano-take/image-expe/)  
 numpyのみを用いて、スクラッチでCNNを構築。学内のコンペティションでは2位というある程度満足いく結果となった。  
 時系列データ: [SARIMAX](https://github.com/ku-practice-of-information-pre-group2/ShockDawnBackEnd/tree/main/Analysis)(now private)  
-ハッカソンにおいて、食堂の並び列に対する解析を行った。一分当たりに並ぶ人を時間に基づく&lambda;を持つポアソン分布として、レジの人処理を定数&mu; &sigma; をもつガウス分布として、
+ハッカソンにおいて、食堂の並び列に対する解析を行った。一分当たりに並ぶ人を時間に基づく&lambda;を持つポアソン分布として、レジの人処理を定数&mu;, &sigma; をもつガウス分布として、
 ある時点で並び始めたと仮定したときにかから待ち時間をSARIMAXを用いて時系列データに対する学習を行った。
-$$
-\sigma \alpha 2_{3_4}
-$$
+
 
 # AI
 GameAI: [ALGORI](https://github.com/Amano-take/ALGORI)
