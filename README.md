@@ -16,7 +16,7 @@ numpyのみを用いて、スクラッチでCNNを構築。学内のコンペテ
 
 
 ## AI
-GameAI: [ALGORI](https://github.com/Amano-take/ALGORI)
+GameAI: [ALGORI](https://github.com/Amano-take/ALGORI)  
 NTT東日本が主催するAIコンペティションに参加。モンテカルロ法で構築し準決勝2位となり決勝に進めず敗北。  
 
 ## Web周り
